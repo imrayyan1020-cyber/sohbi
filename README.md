@@ -2,7 +2,7 @@
 
 Last updated: November 5, 2026
 
-Sohbi is a personal mood journal provided by JUNTOX PTE. LTD.
+Sohbi is a personal mood journal provided by individual developer wang yupeng.
 
 - [Terms of Use](#terms-of-use)
 - [Privacy Policy](#privacy-policy)
@@ -12,7 +12,7 @@ Sohbi is a personal mood journal provided by JUNTOX PTE. LTD.
 
 ### 1. About These Terms
 
-These Terms of Use apply to version 1.0 of Sohbi, an iPhone app provided by JUNTOX PTE. LTD. ("we," "us," or "our"). By using Sohbi, you agree to these Terms. If you do not agree, please stop using the app.
+These Terms of Use apply to version 1.0 of Sohbi, an iPhone app provided by wang yupeng ("we," "us," or "our"). By using Sohbi, you agree to these Terms. If you do not agree, please stop using the app.
 
 These Terms supplement the [Apple Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), which governs your license to the app. These Terms do not replace or limit that agreement. If there is a conflict concerning the app license, the Apple Standard EULA applies. Your applicable mandatory legal rights remain unaffected.
 
@@ -68,13 +68,13 @@ You may stop using Sohbi and delete it at any time. There is no account to close
 
 ### 11. Contact
 
-For questions about Sohbi or these Terms, contact JUNTOX PTE. LTD. at [yffss2014@163.com](mailto:yffss2014@163.com).
+For questions about Sohbi or these Terms, contact wang yupeng at [yffss2014@163.com](mailto:yffss2014@163.com).
 
 ## Privacy Policy
 
 ### 1. Scope
 
-This policy explains how JUNTOX PTE. LTD. handles information in version 1.0 of Sohbi. Sohbi is a local personal journal with optional on-device emotion analysis.
+This policy explains how wang yupeng handles information in version 1.0 of Sohbi. Sohbi is a local personal journal with optional on-device emotion analysis.
 
 ### 2. Information Stored in the App
 
@@ -120,7 +120,7 @@ We may update this policy to reflect changes in the app or legal requirements. T
 
 ### 10. Contact
 
-For privacy questions, contact JUNTOX PTE. LTD. at [yffss2014@163.com](mailto:yffss2014@163.com).
+For privacy questions, contact wang yupeng at [yffss2014@163.com](mailto:yffss2014@163.com).
 
 ## Support
 
